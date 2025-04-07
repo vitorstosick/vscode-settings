@@ -1,9 +1,9 @@
 {
     "workbench.iconTheme": "symbols",
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "Origamid Next",
     "symbols.hidesExplorerArrows": false,
-    "editor.fontSize": 13,
-    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Cascadia Code",
     "editor.lineHeight": 1.7,
     "typescript.autoClosingTags": true,
     "javascript.suggest.autoImports": true,
@@ -19,10 +19,8 @@
     "explorer.compactFolders": false,
     "editor.semanticHighlighting.enabled": false,
     "breadcrumbs.enabled": false,
-    "editor.scrollbar.vertical": "hidden",
-    "editor.scrollbar.horizontal": "hidden",
     "editor.minimap.enabled": false,
-    "workbench.statusBar.visible": false,
+    "workbench.statusBar.visible": true,
     "terminal.integrated.defaultProfile.windows": "Git Bash",
     "terminal.integrated.fontFamily": "JetBrains Mono",
     "terminal.integrated.gpuAcceleration": "on",
@@ -39,5 +37,6 @@
             "activityBarBadge.background": "#ffb381",
         },
     },
-    "window.titleBarStyle": "custom"
+    "window.titleBarStyle": "custom",
+    "files.autoSave": "afterDelay"
 }
